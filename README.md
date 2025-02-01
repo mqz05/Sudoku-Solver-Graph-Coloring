@@ -4,8 +4,7 @@
 ## **Overview**  
 This project solves **Sudoku puzzles** by modeling them as **graph coloring problems**. It uses the `networkx` library to generate graphs, `matplotlib` to visualize Sudoku boards and graphs, and computes **chromatic polynomials** to determine the number of valid solutions for a given Sudoku puzzle.  
 
-This project was developed as part of my **IB Diploma Program Internal Assessment** in **Analysis and Approaches (Higher Level)**. This project demonstrates the application of graph theory and combinatorics to solve classic puzzles like Sudoku. You can view the complete document (in Spanish) here:  
-[Complete Document](https://github.com/user-attachments/files/18630026/TI_AnalisisyEnfoques_NS_Mayo23.pdf)
+This project was developed as part of my **IB Diploma Program Internal Assessment** in **Analysis and Approaches (Higher Level)**. This project demonstrates the application of graph theory and combinatorics to solve classic puzzles like Sudoku. You can view the complete document (in Spanish) here:  [Download PDF Document](https://github.com/user-attachments/files/18630026/TI_AnalisisyEnfoques_NS_Mayo23.pdf)
 
 ---
 
