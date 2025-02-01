@@ -2,7 +2,7 @@
 **A Python-based project to solve Sudoku puzzles using graph theory and chromatic polynomials**  
 
 ## **Overview**  
-This project solves **Sudoku puzzles** by modeling them as **graph coloring problems**. It uses the `networkx` library to generate graphs, `matplotlib` to visualize Sudoku boards and graphs, and computes **chromatic polynomials** to determine the number of valid solutions for a given Sudoku puzzle.  
+This project solves **Sudoku puzzles** by modeling them as **graph coloring problems**. It uses the `networkx` library to generate graphs, `matplotlib` to visualize Sudoku boards and graphs, and computes **chromatic polynomials** to determine the number of valid solutions for a given Sudoku puzzle.  [Preview screenshots](#screenshots)
 
 This project was developed as part of my **IB Diploma Program Internal Assessment** in **Analysis and Approaches (Higher Level)**. This project demonstrates the application of graph theory and combinatorics to solve classic puzzles like Sudoku. You can view the complete document (in Spanish) here:  [Download PDF Document](https://github.com/user-attachments/files/18630026/TI_AnalisisyEnfoques_NS_Mayo23.pdf)
 
@@ -28,7 +28,7 @@ This project was developed as part of my **IB Diploma Program Internal Assessmen
 
 ---
 
-## **Screenshots**  
+## **Screenshots**   <a name="screenshots"></a> 
 Here are some visualizations of the project:  
 
 - 9x9 Sudoku Graph:
