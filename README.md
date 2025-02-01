@@ -70,11 +70,11 @@ To run this project locally, follow these steps:
    pip install networkx matplotlib numpy
    ```
 4. Modify the sudoku_board.py file to input your Sudoku puzzle.
-5. Run the solver:
+5. Run the solver (*note, it might take a couple minutes to run, if so, try changing input sudoku*):
    ```bash
    python main.py
    ```
-6. To compute chromatic polynomials, set up the input sudoku in the file and run:
+6. To compute chromatic polynomials, set up the input sudoku in the file and run :
    ``` bash
    python polinomio_cromatico.py
    ```
